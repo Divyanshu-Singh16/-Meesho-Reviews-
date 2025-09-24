@@ -58,7 +58,3 @@ The goal is to apply **Natural Language Processing (NLP)** techniques to real-wo
 - Trying deep learning models like LSTM or BERT for better accuracy.  
 - Expanding dataset with more diverse reviews.  
 
----
-
-## 👤 Author  
-Project by **Devashish Sinha** 
